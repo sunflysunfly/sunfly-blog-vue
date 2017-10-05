@@ -1,0 +1,6 @@
+header .banner{height:170px;background:url(../img/banner_bg.jpg) center 60% no-repeat;background-size:cover;}
+header .nav{height:50px;background: #9034b2;background:linear-gradient(to top,#0cea16,#9034b2,#0cea16);}
+header .nav ul{font:18px/50px '微软雅黑';color:#fff;}
+header .nav ul li{float:left;}
+header .nav ul li a{display:block;padding:0 22px;color:#fff;}
+header .nav ul li a:hover{color:#000;background:linear-gradient(to top,#0cea16,#fff,#0cea16);}
